@@ -6,3 +6,4 @@ data_structures
 conditionals
 packages
 files
+class
